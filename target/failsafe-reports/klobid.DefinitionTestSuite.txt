@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: klobid.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 109.971 sec - in klobid.DefinitionTestSuite
